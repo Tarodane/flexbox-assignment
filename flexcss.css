@@ -1,0 +1,72 @@
+[class^="box"]{
+    /padding: 18px;
+    font-size: 70px;
+    text-align: center;
+    color: white;
+    height: 24vh;
+    border-bottom-style: solid;
+    border-bottom-color: white;
+    border-bottom: 10%;
+}
+
+
+
+.box1{background-color: #ff1e1e}
+.box2{background-color: #ffb11e}
+.box3{background-color: #fff61e}
+.box4{background-color: #41ff1e}
+.box5{background-color: #1effd4}
+.box6{background-color: #1ebaff}
+.box7{background-color: #1e63ff}
+.box8{background-color: #631eff}
+.box9{background-color: #491eff}
+.box10{background-color: #ba1eff}
+
+
+
+.flexbox{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.box1{
+    width: 99%;
+}
+.box2{
+    width: 49%;
+}
+.box3{
+    width: 49%;
+}
+.box4{
+    width: 24%;
+}
+.box5{
+    width: 24%;
+}
+.box6{
+    width: 24%;
+}
+.box7{
+    width: 24%;
+}
+.box8{
+    width: 32.3%;
+}
+.box9{
+    width: 32.3%;
+}
+.box10{
+    width: 32.3%; 
+}
+
+/.box8 .box9 .box10{
+    border-style: solid;
+    border-color: black;
+    border: 1.7%;
+}
+
+
+
